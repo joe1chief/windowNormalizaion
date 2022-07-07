@@ -1,4 +1,4 @@
-# WIN: A simple normalization technique  using stochastic local statistics to improve the out-of-distribution generalization
+# A simple normalization technique using window statistics to improve the out-of-distribution generalization in medical images
 
 
 <img align="center" src="assets/WIN-WIN.jpg" width="750">
