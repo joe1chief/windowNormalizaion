@@ -1,4 +1,4 @@
-# WIN: A simple normalization technique using window statistics to improve the out-of-distribution generalization on medical images
+# [IEEE TMI 2024] WIN: A simple normalization technique using window statistics to improve the out-of-distribution generalization on medical images
 
 
 <img align="center" src="assets/WIN-WIN.jpg" width="750">
@@ -91,10 +91,11 @@ Any discussions, suggestions and questions are welcome!
 To cite WIN in your publications, please use the following bibtex entry
 
 ```
-@article{zhou2022windowNorm,
+@article{zhou2024simple,
   title={A simple normalization technique using window statistics to improve the out-of-distribution generalization on medical images},
-  author={Zhou, Chengfeng and Chen, Songchang and Xu, Chenming and Wang, Jun and Liu, Feng and Zhang, Chun and Ye, Juan and Huang, Hefeng, and Qian, Dahong},
-  journal={arXiv:2207.03366},
-  year={2022}
+  author={Zhou, Chengfeng and Wang, Jun and Xiang, Suncheng and Liu, Feng and Huang, Hefeng and Qian, Dahong},
+  journal={IEEE Transactions on Medical Imaging},
+  year={2024},
+  publisher={IEEE}
 }
 ```
