@@ -175,8 +175,6 @@ def train(net, train_loader, optimizer, scheduler, args, scaler):
 
         loss = 0.5 * (F.cross_entropy(logits_eval, targets) + F.cross_entropy(logits, targets)) + 0.3 * jsd_loss
 
-        loss = F.cross_entropy(logits, targets)
-
       else:
         logits = net(images)
         loss = F.cross_entropy(logits, targets)
